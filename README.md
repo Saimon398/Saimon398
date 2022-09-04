@@ -13,6 +13,8 @@
 - Mail: aleksborislavskij@gmail.com
 - TG: otdameskapizm
 
+![Alt Text](https://media.giphy.com/media/6heBQSjt2IoA8/giphy.gif)
+
 <!---
 Saimon398/Saimon398 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

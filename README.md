@@ -10,7 +10,7 @@
 
 ### How to reach me 
 
-- Mail: aleksborislavskij@gmail.com
+- Email: aleksborislavskij@gmail.com
 - TG: otdameskapizm
 
 ![Alt Text](https://media.giphy.com/media/6heBQSjt2IoA8/giphy.gif)

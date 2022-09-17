@@ -5,6 +5,7 @@
 - 👨🏻‍💻 Currently looking for a job as a Frontend Developer / Engineer.
 - 💞️ JavaScript, TypeScript, React, Vue
 - 🦊 Python, SQL
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English - C1 (IELTS)
 - 🦦 I am deeply interested in Math, Russian Art and Sport.
 - 🌲 Currenty I am working on boosting up my skills in Algorithms and DS
 

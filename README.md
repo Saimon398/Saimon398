@@ -16,6 +16,8 @@
 
 ![Alt Text](https://media.giphy.com/media/6heBQSjt2IoA8/giphy.gif)
 
+[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saimon398&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 Saimon398/Saimon398 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

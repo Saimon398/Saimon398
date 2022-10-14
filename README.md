@@ -3,7 +3,7 @@
 
 - 🇷🇺 Moscow, Russia
 - 👨🏻‍💻 Currently looking for a job as a Frontend Developer / Engineer.
-- 💞️ JavaScript, TypeScript, React, Vue
+- 💞️ JavaScript, TypeScript, React, Node.js
 - 🦊 Python, SQL
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English - C1 (IELTS)
 - 🦦 I am deeply interested in Math, Russian Art and Sport.

@@ -6,8 +6,8 @@
 - 💞️ JavaScript, TypeScript, React, Node.js
 - 🦊 Python, SQL
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English - C1 (IELTS)
-- 🦦 I am deeply interested in Math, Russian Art and Sport.
-- 🌲 Currenty I am working on boosting up my skills in Algorithms and DS
+- 🦦 I am deeply interested in Math, Russian Art and Sport
+- 🌲 Open-Source is one of the greatest thing that has ever happened to this world
 
 ### How to reach me 
 

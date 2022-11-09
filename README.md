@@ -13,6 +13,7 @@
 
 - Email: aleksborislavskij@gmail.com
 - TG: otdameskapizm
+- Хабр: https://qna.habr.com/user/otdameskapizm
 
 ![Alt Text](https://media.giphy.com/media/6heBQSjt2IoA8/giphy.gif)
 

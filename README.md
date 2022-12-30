@@ -1,8 +1,8 @@
 # Hello, Earthlings! I'm Alex 🥷🏻
-## Frontend Developer / Engineer 
+## Software Developer / Engineer 
 
 - 🇷🇺 Moscow, Russia
-- 👨🏻‍💻 Currently looking for a job as a Frontend Developer / Engineer.
+- 👨🏻‍💻 Currently looking for a job as a Software Developer / Engineer.
 - 💞️ JavaScript, TypeScript, React, Node.js
 - 🦊 Python, SQL
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English - C1 (IELTS)

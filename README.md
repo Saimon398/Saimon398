@@ -1,10 +1,10 @@
 # Hello, Earthlings! I'm Alex 🥷🏻
-## Software Developer / Engineer 
+## Data Analyst / Software Engineer 
 
 - 🇷🇺 Moscow, Russia
-- 👨🏻‍💻 Currently looking for a job as a Software Developer / Engineer.
+- 👨🏻‍💻 Currently looking for a job as a Data Analyst
 - 💞️ JavaScript, TypeScript, React, Node.js
-- 🦊 Python, SQL
+- 🦊 Python, SQL, Excel, Power BI, Tableau
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English - C1 (IELTS)
 - 🦦 I am deeply interested in Math, Russian Art and Sport
 - 🌲 Open-Source is one of the greatest thing that has ever happened to this world

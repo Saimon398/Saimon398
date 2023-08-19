@@ -3,10 +3,10 @@
 
 - 🇷🇺 Moscow, Russia
 - 👨🏻‍💻 Currently looking for a job as a Data Analyst
-- 💞️ JavaScript, TypeScript, React, Node.js
-- 🦊 Python, SQL, Excel, Power BI, Tableau
+- 💞️ JavaScript, TypeScript, Node.js
+- 🦊 Python, SQL, Excel (Power Query, VBA), Power BI, Tableau
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English - C1 (IELTS)
-- 🦦 I am deeply interested in Math, Russian Art and Sport
+- 🦦 I am deeply interested in Math, Russian Art, Languages and Sport
 - 🌲 Open-Source is one of the greatest thing that has ever happened to this world
 
 ### How to reach me 

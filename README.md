@@ -2,7 +2,6 @@
 ## Data Analyst / Software Engineer 
 
 - 🇷🇺 Moscow, Russia
-- 👨🏻‍💻 Currently looking for a job as a Data Analyst
 - 💞️ JavaScript, TypeScript, Node.js
 - 🦊 Python, SQL, Excel (Power Query, VBA), Power BI, Tableau
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English - C1 (IELTS)

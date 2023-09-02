@@ -1,5 +1,5 @@
 # Hello, Earthlings! I'm Alex 🥷🏻
-## Data Analyst / Software Engineer 
+## Data Analyst
 
 - 🇷🇺 Moscow, Russia
 - 💞️ JavaScript, TypeScript, Node.js

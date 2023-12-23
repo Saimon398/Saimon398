@@ -2,8 +2,8 @@
 ## Data Analyst
 
 - 🇷🇺 Moscow, Russia
+- 🦊 Python, SQL, Excel (Power Query / Power Pivot, VBA), Tableau
 - 💞️ JavaScript, TypeScript, Node.js
-- 🦊 Python, SQL, Excel (Power Query, VBA), Power BI, Tableau
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English - C1 (IELTS)
 - 🦦 I am deeply interested in Math, Russian Art, Languages and Sport
 - 🌲 Open-Source is one of the greatest thing that has ever happened to this world
@@ -12,7 +12,7 @@
 
 - Email: aleksborislavskij@gmail.com
 - TG: otdameskapizm
-- Хабр: https://qna.habr.com/user/otdameskapizm
+- Хабр Q&A: https://qna.habr.com/user/otdameskapizm
 - Tableau Vizzes: https://public.tableau.com/app/profile/aleks.popov7876/vizzes
 
 ![Alt Text](https://media.giphy.com/media/6heBQSjt2IoA8/giphy.gif)

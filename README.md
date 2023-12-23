@@ -13,6 +13,7 @@
 - Email: aleksborislavskij@gmail.com
 - TG: otdameskapizm
 - Хабр: https://qna.habr.com/user/otdameskapizm
+- Tableau Vizzes: https://public.tableau.com/app/profile/aleks.popov7876/vizzes
 
 ![Alt Text](https://media.giphy.com/media/6heBQSjt2IoA8/giphy.gif)
 

@@ -2,8 +2,8 @@
 ## Data Analyst
 
 - 🇷🇺 Moscow, Russia
-- 🦊 Python, SQL, Excel (Power Query / Power Pivot, VBA), Tableau
-- 💞️ JavaScript, TypeScript, Node.js
+- 🦊 Work with: Python, SQL, Excel (Power Query / Power Pivot, VBA), Tableau
+- 💞️ Also can: JavaScript, TypeScript, Node.js
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English - C1 (IELTS)
 - 🦦 I am deeply interested in Math, Russian Art, Languages and Sport
 - 🌲 Open-Source is one of the greatest thing that has ever happened to this world

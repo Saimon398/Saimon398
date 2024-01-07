@@ -11,7 +11,10 @@
 ### How to reach me 
 
 - Email: aleksborislavskij@gmail.com
-- TG: otdameskapizm
+- Telegram: otdameskapizm
+  
+### Also a little bit about me
+
 - Хабр Q&A: https://qna.habr.com/user/otdameskapizm
 - Tableau Vizzes: https://public.tableau.com/app/profile/aleks.popov7876/vizzes
 
